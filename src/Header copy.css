@@ -1,0 +1,9 @@
+h1{
+    font-family: 'Potta One', cursive;
+        color: #4038b1;
+        text-shadow:
+         -1px -1px 0 #eee,  
+          1px -1px 0 #eee,
+          -1px 1px 0 #eee,
+           1px 1px 0 #eee;
+      }
