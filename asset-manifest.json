@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Zuka-review-library/static/css/main.f335df91.chunk.css",
+    "main.js": "/Zuka-review-library/static/js/main.90bb0a1c.chunk.js",
+    "main.js.map": "/Zuka-review-library/static/js/main.90bb0a1c.chunk.js.map",
+    "runtime-main.js": "/Zuka-review-library/static/js/runtime-main.6bea427f.js",
+    "runtime-main.js.map": "/Zuka-review-library/static/js/runtime-main.6bea427f.js.map",
+    "static/css/2.1f208231.chunk.css": "/Zuka-review-library/static/css/2.1f208231.chunk.css",
+    "static/js/2.c9c6bbd2.chunk.js": "/Zuka-review-library/static/js/2.c9c6bbd2.chunk.js",
+    "static/js/2.c9c6bbd2.chunk.js.map": "/Zuka-review-library/static/js/2.c9c6bbd2.chunk.js.map",
+    "static/js/3.2f41580e.chunk.js": "/Zuka-review-library/static/js/3.2f41580e.chunk.js",
+    "static/js/3.2f41580e.chunk.js.map": "/Zuka-review-library/static/js/3.2f41580e.chunk.js.map",
+    "index.html": "/Zuka-review-library/index.html",
+    "static/css/2.1f208231.chunk.css.map": "/Zuka-review-library/static/css/2.1f208231.chunk.css.map",
+    "static/css/main.f335df91.chunk.css.map": "/Zuka-review-library/static/css/main.f335df91.chunk.css.map",
+    "static/js/2.c9c6bbd2.chunk.js.LICENSE.txt": "/Zuka-review-library/static/js/2.c9c6bbd2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6bea427f.js",
+    "static/css/2.1f208231.chunk.css",
+    "static/js/2.c9c6bbd2.chunk.js",
+    "static/css/main.f335df91.chunk.css",
+    "static/js/main.90bb0a1c.chunk.js"
+  ]
+}
