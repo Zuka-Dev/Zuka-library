@@ -3,7 +3,7 @@ import Feel from './Color'
 import Error from './Error'
 
 function SearchBox(props) {
-    const[apiKey, setApiKey]=useState(process.env.APIKey)
+    const[apiKey, setApiKey]=useState(process.env.REACT_APP_GOOGLE_API_KEY)
     const[bookName,setBookName]=useState("")
     const nameHandler = (e)=>{
         e.preventDefault();
