@@ -3,7 +3,7 @@ import Feel from './Color'
 import Error from './Error'
 
 function SearchBox(props) {
-    const[apiKey, setApiKey]=useState("AIzaSyBRTdEMianYgwCYPzWfr2-OQ6b-mSA0-lo")
+    const[apiKey, setApiKey]=useState(process.env.APIKey)
     const[bookName,setBookName]=useState("")
     const nameHandler = (e)=>{
         e.preventDefault();
